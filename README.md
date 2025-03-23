@@ -1,2 +1,2 @@
-PAckages Used: encore web large, Pandas, Numpy 
+Packages Used: encore web large, Pandas, Numpy 
 
